@@ -1,1 +1,1 @@
-HarcaZy-AutoKeyPresser v1.0
+HarcaZy-AutoKeyPresser v1.1
